@@ -84,7 +84,7 @@ textarea{padding:5px;box-sizing:border-box;font-size:15px;border:1px solid #bebe
 @media (min-width:880px){html{font-size:25px}} */
 
 /* default */
-.wrap{width:1200px;height:800px;margin:0 auto;position:relative;overflow:hidden;border:1px solid #eee;
+.wrap{width:1200px;height:800px;margin:0 auto;position:relative;overflow:hidden;
 	>div{display:none;
 		&.active{display:block;}
 	}
