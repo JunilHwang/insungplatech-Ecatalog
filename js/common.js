@@ -28,7 +28,7 @@ function pageLoadEvent(){
 	//animation Class Setting and play
 	am.classSetting().change({obj:$('.main')}).play();
 	// am.classSetting().change({obj:$('.sub')}).play();
-	subView(".sub06");
+	//subView(".sub06");
 
 	if(opener) opener.close();
 }
